@@ -1,4 +1,4 @@
-# 100Days_Of_Python
+# 100 Days Of Python
 
 Welcome to the **100Days_Of_Python** repository! This is a collection of my journey through 100 days of Python programming, where I will be working on various projects, exercises, and challenges to improve my Python skills.
 
