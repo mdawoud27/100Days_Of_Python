@@ -8,8 +8,8 @@
 - String Manipulation
 - Variables
 
-### Day Project is Band Name
 
+Day Project is **Band Name**
 
 *Run the file using the following command*
 
