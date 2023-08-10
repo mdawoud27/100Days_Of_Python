@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Find and make .py files executable
+find . -type f -name "*.py" -exec chmod +x {} \;
+
+echo "Done! All .py files in the current folder and its subfolders are now executable."
