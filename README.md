@@ -39,7 +39,7 @@ Throughout this challenge, I will be using a variety of resources to learn and i
 
 *To automate some of my work*
 
-- `execute` to give permissions to the file either in the current dir or in a sub.
+- `execute` to give permissions to the .py files either in the current dir or in a sub.
     ``` bash
       #!/bin/bash
       find . -type f -name "*.py" -exec chmod +x {} \;    
