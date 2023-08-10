@@ -9,7 +9,7 @@ Welcome to the **100Days_Of_Python** repository! This is a collection of my jour
 - [Challenges](#challenges)
 - [Progress](#progress)
 - [Resources](#resources)
-- [Scripting Files I used](#scripting)
+- [Scripting files are used](#scripting)
 
 ## About
 
