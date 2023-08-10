@@ -9,6 +9,7 @@ Welcome to the **100Days_Of_Python** repository! This is a collection of my jour
 - [Challenges](#challenges)
 - [Progress](#progress)
 - [Resources](#resources)
+- [Scripting Files I used](#scripting)
 
 ## About
 
@@ -34,6 +35,23 @@ Throughout this challenge, I will be using a variety of resources to learn and i
 - Python documentation
 - Coding platforms for challenges and exercises
 
+## Scripting
+
+*To automate some of my work*
+
+- `execute` to give permissions to the file either in the current dir or in a sub.
+    ``` bash
+      #!/bin/bash
+      find . -type f -name "*.py" -exec chmod +x {} \;    
+    ```
+    
+- `push` file to automate uploading files to the remote server.
+    ``` bash
+      #!/bin/bash
+      git add .
+      git commit -m "${*:1}"
+      git push origin main
+    ```
 ---
 
 Thank you for joining me on this Python journey! If you have any questions, suggestions, or just want to say hi, feel free to reach out.
