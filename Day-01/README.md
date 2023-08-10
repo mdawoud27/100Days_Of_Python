@@ -12,11 +12,13 @@
 
 ### Usage
 
-*To run the file, you should go to repo root and run `execute` file to give the access to the `main.py`*
+*To run the file, you should give the access to the `main.py` by running the `execute` file as the following*
 ``` bash
-./execute
+  ../execute
+  ./main.py
+
 ```
-**or run the file with the following command**
+*or run the file with the following command*
 ``` bash
-python3 main.py
+  python3 main.py
 ```
