@@ -1,6 +1,6 @@
 ## Day 01 from 100DaysOfCode
 
-### Goals of Day 01
+### Day 01 Goals
 
 - Printing
 - Commenting
