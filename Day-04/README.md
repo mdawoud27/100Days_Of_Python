@@ -5,6 +5,8 @@
 - Randomisation
 - Lists
 ___
+Files which start with numbers are my *Notes*.
+
 **Day Exercises**
 
 - `main.py`
