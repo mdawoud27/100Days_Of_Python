@@ -9,6 +9,8 @@
 - f-Strings
 
 ___
+Files which start with numbers are my *Notes*.
+
 **Day Challenges**
 
 - `BMI_calculator.py`
