@@ -9,6 +9,8 @@
 - Variables
 
 ___
+Files which start with numbers are my *Notes*.
+
 Day Project is **Band Name**
 
 *Run the file using the following command*
