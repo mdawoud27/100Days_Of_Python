@@ -2,8 +2,8 @@
 
 ### Day 10 Goals
 
-- Dictionaries
-- Nesting
+- 
+- 
 ___
 Files which start with numbers are my *Notes*.
 
