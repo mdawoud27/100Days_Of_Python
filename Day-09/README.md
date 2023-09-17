@@ -1,7 +1,6 @@
 ## Day 09 from 100DaysOfCode
 
 ### Day 09 Goals
-*Review on the above concepts like:*
 
 - Dictionaries
 - Nesting
