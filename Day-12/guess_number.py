@@ -49,7 +49,7 @@ def game():
         a = int(input("Enter the first range: "))
         b = int(input("Enter the second range: "))
         answer = set_range(a, b)
-    print(answer)
+    # print(answer)
 
     turns = set_difficulty()
 
