@@ -9,12 +9,13 @@ ___
 
 **Day Exercises and Challenges**
 
-- 
+- `main.py`
+- `pretty_table.py`
 
-**Day's Project is** **.
+[//]: # (**Day's Project is** **.)
 
 *Run the file using the following command:*
 
 ``` bash
-    python3 
+    python3 pretty_table.py
 ```
