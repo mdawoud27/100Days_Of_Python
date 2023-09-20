@@ -9,10 +9,16 @@ ___
 
 **Day Exercises and Challenges**
 
-- `main.py`
+- `turtle_module.py`
 - `pretty_table.py`
 
-[//]: # (**Day's Project is** **.)
+**Day's Project is** *Coffee Machine*.
+
+*Run the file using the following command:*
+
+``` bash
+    python3 main.py
+```
 
 *Run the file using the following command:*
 
