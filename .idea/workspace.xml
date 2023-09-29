@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69933f54-d2b6-4749-b172-1ddb9d6c9ceb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day-16/coffee_maker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-16/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-16/money_machine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-16/turtle_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-17/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-17/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-17/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-17/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-17/quiz_brain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-16/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-16/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-16/pretty_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day-16/pretty_table.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
